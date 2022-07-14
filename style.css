@@ -1,0 +1,144 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 4 0px;
+    margin: 0px;
+}
+
+.div-1 {
+
+    background-image: url(images/istockphoto-1328289767-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+    text-align: left;
+
+}
+
+.div-1 div {
+    width: 50%;
+    text-align: left;
+    color: white;
+    padding: 20px 10px 30px 80px;
+    margin-left: 50px;
+}
+
+.orange-color {
+    color: tomato;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.div-2 {
+    display: flex;
+    margin: 20px 60px;
+}
+
+.div-2 div {
+    margin: 10px;
+    width: 50%;
+    background-size: cover;
+    padding: 40px 20px 0px 40px;
+    text-align: left;
+    margin-bottom: 40px;
+
+
+}
+
+.div-2 video {
+    width: 90%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.div-3 {
+    text-align: center;
+    margin: 20px 20%;
+    padding: 5px 30px;
+
+}
+
+.div-4 {
+    display: flex;
+    margin: 20px 15%;
+}
+
+.div-4 div {
+    margin: 20px;
+    width: 50%;
+    background-size: cover;
+    background-color: #FEF4F5;
+
+}
+
+.div-4 p,
+h3 {
+    padding: 5px 15px 10px 95px;
+
+}
+
+.div-4 img {
+    float: left;
+    padding: 20px 20px;
+    padding-top: 25px;
+}
+
+.div-5 {
+    display: flex;
+    margin: 20px 80px;
+    margin-bottom: 40px;
+}
+
+.div-5 div {
+    margin: 10px;
+    width: 33%;
+    background-size: cover;
+}
+
+.div-5 img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.div-6 {
+    display: flex;
+    margin: 20px 80px;
+    margin-bottom: 40px;
+}
+
+.div-6 div {
+    margin: 10px;
+    width: 33%;
+    background-size: cover;
+    box-shadow: 10px 10px 30px gray;
+    padding-bottom: 30px;
+
+
+}
+
+.div-6 img {
+
+    border-radius: 5px;
+
+    width: 100%;
+
+
+}
+
+.div-6 h3,
+p {
+    padding: 10px 10px 0 20px;
+}
