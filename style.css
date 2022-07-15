@@ -3,6 +3,32 @@ body {
     margin: 0px;
 }
 
+ul {
+    list-style-type: none;
+    margin-right: 20px;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #EF233C;
+}
+
+
+
 h1 {
     font-size: 4 0px;
     margin: 0px;
@@ -15,14 +41,15 @@ h1 {
     background-repeat: no-repeat;
     margin-bottom: 40px;
     text-align: left;
+    height: 500px;
 
 }
 
-.div-1 div {
+.div-1-1 {
     width: 50%;
     text-align: left;
     color: white;
-    padding: 20px 10px 30px 80px;
+    padding: 100px 10px 30px 80px;
     margin-left: 50px;
 }
 
